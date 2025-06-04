@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-
-![Ericlein's GitHub stats](github-readme-stats-erics-projects-661e8ebb.vercel.app/api?username=Ericlein&count_private=true&show_icons=true&theme=radical)
-
+![Ericlein's GitHub stats](https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api?username=Ericlein&count_private=true&show_icons=true&theme=radical)
 <!--
 **Ericlein/Ericlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
