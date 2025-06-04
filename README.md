@@ -1,4 +1,5 @@
-# Hi, I'm Eric 👋 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-sjoberg/) [![Portfolio](https://img.shields.io/badge/portfolio-blue?style=for-the-badge)](https://portfolio.ericklein.se)
+# Hi, I'm Eric 👋 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-sjoberg/) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.ericklein.se)
+
 
 <div align="left">
 <img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api/top-langs/?username=Ericlein&layout=compact&theme=radical" />
@@ -22,11 +23,11 @@ Currently working as a **DevOps Engineer** where I practice the art of "it works
 
 **Systems & Platforms:** 
 
-![Systems](https://skillicons.dev/icons?i=linux,windows,webflow,unity,unreal,vercel)
+![Systems](https://skillicons.dev/icons?i=linux,windows,unity,unreal,vercel)
 
 **Currently Learning:** 
 
-![Learning](https://skillicons.dev/icons?i=py,tailwind,react,vue,ts)
+![Learning](https://skillicons.dev/icons?i=py,vue,react)
 
 </div>
 
