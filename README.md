@@ -2,7 +2,7 @@
 
 
 <div align="left">
-<img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api/top-langs/?username=Ericlein&layout=compact&theme=radical" />
+<img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api/top-langs/?username=Ericlein&layout=compact&theme=radical&cache_seconds=1800" />
 
 ### About Me
 I break things in production so you don't have to! 🚀 
@@ -15,7 +15,7 @@ Currently working as a **DevOps Engineer** where I practice the art of "it works
 ## Tech Stacks
 
 <div align="left">
-<img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api?username=Ericlein&count_private=true&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api?username=Ericlein&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" />
 
 **Current Stack:** 
 
