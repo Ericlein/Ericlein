@@ -17,15 +17,15 @@ Currently working as a **DevOps Engineer** where I practice the art of "it works
 <div align="left">
 <img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api?username=Ericlein&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" />
 
-**Current Stack:** 
+**Currently working with:** 
 
-![Current Stack](https://skillicons.dev/icons?i=cs,ansible,dotnet,mysql,nuxtjs)
+![Current Stack](https://skillicons.dev/icons?i=cs,ansible,dotnet,mysql)
 
 **Systems & Platforms:** 
 
 ![Systems](https://skillicons.dev/icons?i=linux,windows,unity,unreal,vercel)
 
-**Currently Learning:** 
+**Diving into:** 
 
 ![Learning](https://skillicons.dev/icons?i=py,vue,react)
 
