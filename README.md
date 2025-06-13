@@ -1,15 +1,4 @@
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="200">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="200">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="200">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="200">
-</a>
-</div>
-
 # Hi, I'm Eric 👋 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-sjoberg/) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.ericklein.se)
-
 
 <div align="left">
 <img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api/top-langs/?username=Ericlein&layout=compact&theme=radical&cache_seconds=1800" />
