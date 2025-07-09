@@ -6,7 +6,7 @@
 ### About Me
 I break things in production so you don't have to! 🚀 
 
-Currently working as a **DevOps Engineer** while diving deeper into **frontend development** and **python**.
+Currently working as a **DevOps Engineer** while diving deeper into different solutions and technologies.
 </div>
 
 <br clear="all" />
@@ -26,7 +26,7 @@ Currently working as a **DevOps Engineer** while diving deeper into **frontend d
 
 **Diving into:** 
 
-![Learning](https://skillicons.dev/icons?i=py,vue,react)
+![Learning](https://skillicons.dev/icons?i=py,vue,react,dart)
 
 </div>
 
