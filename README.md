@@ -22,7 +22,7 @@ Currently working as a **DevOps Engineer** while diving deeper into different so
 
 **Systems & Platforms:** 
 
-![Systems](https://skillicons.dev/icons?i=linux,windows,unity,unreal,vercel)
+![Systems](https://skillicons.dev/icons?i=linux,windows,vercel,supabase)
 
 **Diving into:** 
 
