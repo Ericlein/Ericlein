@@ -1,7 +1,7 @@
 # Hi, I'm Eric 👋 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-sjoberg/) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ericklein.se)
 
 <div align="left">
-<img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api/top-langs/?username=Ericlein&layout=compact&theme=radical&cache_seconds=1800" />
+<! --- <img align="right" src="https://github-readme-stats-zeta-henna-ly704ns70p.vercel.app/api/top-langs/?username=Ericlein&layout=compact&theme=radical&cache_seconds=1800" />
 
 ### About Me
 I break things in production so you don't have to! 🚀 
